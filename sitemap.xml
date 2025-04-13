@@ -28,6 +28,10 @@
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://tresvance.com/icons/favicon.ico</loc>
+  </url>
+
 
   <!-- LinkedIn Page (External Link) -->
   
